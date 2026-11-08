@@ -1,0 +1,53 @@
+body {
+        background-color: #f4f4f9;
+            min-height: 100vh;
+                margin: 0;
+                }
+
+                table {
+                    width: 90%;
+                        max-width: 1000px;
+                            border-collapse: collapse;
+                                background-color: #ffffff;
+                                }
+
+                                caption {
+                                    font-size: 1.5rem;
+                                        font-weight: bold;
+                                            margin-bottom: 15px;
+                                                color: #333;
+                                                }
+
+                                                th, td {
+                                                    border: 1px solid #dddddd;
+                                                        padding: 12px;
+                                                            text-align: center;
+                                                                font-size: 0.95rem;
+                                                                }
+
+                                                                thead th {
+                                                                    background-color: #004080;
+                                                                        color: #ffffff;
+                                                                            font-weight: bold;
+                                                                            }
+
+                                                                            tbody th {
+                                                                                background-color: #e9ecef;
+                                                                                    font-weight: bold;
+                                                                                        color: #333;
+                                                                                        }
+
+                                                                                        .pati {
+                                                                                            background-color: #fffae6;
+                                                                                                font-weight: bold;
+                                                                                                    color: #b38600;
+                                                                                                        letter-spacing: 1px;
+                                                                                                        }
+
+                                                                                                        tfoot td {
+                                                                                                            background-color: #f1f3f5;
+                                                                                                                font-weight: bold;
+                                                                                                                    color: #495057;
+                                                                                                                        font-size: 0.9rem;
+                                                                                                                        }
+}
